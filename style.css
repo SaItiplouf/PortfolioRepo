@@ -4977,7 +4977,7 @@ html.w-mod-js [data-ix="text-0-2"] {
     line-height: 18vh;
   }
   .h-quote-w {
-    bottom: 5vw;
+    bottom: -1vw;
     cursor: pointer;
   }
   .h-slant {
